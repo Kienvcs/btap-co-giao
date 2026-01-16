@@ -1,0 +1,17 @@
+body {
+    color: blue; 
+    text-align: center;
+}
+
+h1, h2 {
+    font-size: 16px;
+}
+
+p {
+    text-align: justify; 
+    text-indent: 2em;
+}
+
+strong, em {
+    font-size: 100%;
+}
