@@ -1,9 +1,17 @@
-body{color: blue;
-     text-align: center;}
+body {background-color: Cornsilk;
+    color: SaddleBrown;
+    font-family: "Times New Roman", Times, serif;
+    padding: 50px;}
 
-h1,h2{font-size: 16px;}
+h2 {color: DarkGreen;
+    font-size: 30px;
+    text-align: center;
+    font-variant: small-caps;
+    text-shadow: 1px 1px 0px BurlyWood;}
 
-p {text-align:justify;
-   text-indent: 2em;}
+p {font-size: 18px;
+   line-height: 1.8;text-indent: 40px;
+   letter-spacing: 0.5px;}
 
-strong,em{font-size:100%;}
+em {color: DarkGoldenRod;
+    font-style: italic;}
